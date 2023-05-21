@@ -1,13 +1,13 @@
 
 # DIGHUM101-2022: Practicing the Digital Humanities (Practicum)
 
-[Practicing the Digital Humanities, UC Berkeley Summer Session 2022](https://classes.berkeley.edu/content/2022-summer-dighum-101-001-lec-001)
+[Practicing the Digital Humanities, UC Berkeley Summer Session 2023](https://classes.berkeley.edu/content/2023-summer-dighum-101-001-lec-001)
 
-Instructor: [Tom van Nuenen](https://uk.linkedin.com/in/tomvannuenen)
+Instructor: [Prashant Sharma](https://www.linkedin.com/in/prashant3123)
 
 [UC Berkeley D-Lab](https://dlab.berkeley.edu/)
 
-- May 23 2022 - Jul 01 2022
+- May 22 2023 - Jun 30 2023
 - M, TU, W, TH
 - 1:00 pm - 2:59 pm
 - Internet/Online
@@ -44,8 +44,8 @@ The digital and data revolution has begun to transform the study of the humaniti
 Are you having trouble installing Python, importing data, or otherwise running the notebooks? Click [this link](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FDIGHUM101-2022&urlpath=lab%2Ftree%2FDIGHUM101-2022%2F) to open our notebooks in Berkeley DataHub, which allows you to run the notebooks in the cloud (Berkeley account required).
 
 ### Past Courses
-Parts of these materials were created by Evan Muzzall, 2018-2021, and Brooks Jessup, 2021
-
+Parts of these materials were created by Evan Muzzall, 2018-2021, Brooks Jessup, 2021, and Tom van Nuenen, 2022. 
+- https://github.com/dlab-berkeley/DIGHUM101-2022
 - https://github.com/dlab-berkeley/DIGHUM101-2021
 - https://github.com/dlab-berkeley/DIGHUM101-2020
 - https://github.com/dlab-berkeley/DIGHUM101-2019
